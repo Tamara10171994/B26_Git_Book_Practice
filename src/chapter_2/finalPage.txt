@@ -1,0 +1,10 @@
+
+
+so far we learned git
+
+commit --> push
+
+and
+remote --> to local
+
+
